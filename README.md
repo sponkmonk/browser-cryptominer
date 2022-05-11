@@ -13,6 +13,8 @@ Browser monero crypto miner client implementation using wasm and web workers
 
 </div>
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## About
 
 This project was one of several demonstrations I gave for my cybersecurity dissertation paper, "Browser-based fileless malware: cryptojacking and botnets." What you're looking at is a web-based crypto miner implementation.
